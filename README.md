@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**bartaadalbert/bartaadalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 At present, I am concentrating on building a streaming business featuring a robust admin control panel, improved user experience with interactive bots, and seamless payment processing directly through the bots themselves.
 - 🌱 I’m currently learning kubernetes,terraform,jenkins
 - 👯 I am seeking collaboration opportunities in the field of DevOps, with a focus on creating automated systems and cloud-based infrastructure to streamline and optimize development and deployment processes.
@@ -15,4 +10,3 @@ Here are some ideas to get you started:
       Skype: adalbert.barta
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: думав Шо херня то не мат:))))))
--->
