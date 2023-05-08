@@ -8,3 +8,4 @@
 - 📫  Phone: +380995390629
       Email: adalbertbarta@gmail.com or adalbert@jsonsmile.com
       Skype: adalbert.barta
+Let's connect and explore opportunities to collaborate!
