@@ -8,5 +8,3 @@
 - 📫  Phone: +380995390629
       Email: adalbertbarta@gmail.com or adalbert@jsonsmile.com
       Skype: adalbert.barta
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: думав Шо херня то не мат:))))))
