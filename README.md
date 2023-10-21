@@ -1,11 +1,30 @@
-### Hi there 👋
+### Hello, I'm Adalbert! 👋
 
-- 🔭 At present, I am concentrating on building a streaming business featuring a robust admin control panel, improved user experience with interactive bots, and seamless payment processing directly through the bots themselves.
-- 🌱 I'm expanding my knowledge and practical experience in Kubernetes, Terraform, and Jenkins. I have some familiarity with these tools, and I'm looking to deepen my understanding and skills through further exploration and hands-on practice.
-- 👯 I am seeking collaboration opportunities in the field of DevOps, with a focus on creating automated systems and cloud-based infrastructure to streamline and optimize development and deployment processes.
-- 🤔 I'm seeking assistance in improving my communication skills and fostering collaboration with people who share similar interests. It's challenging for me to effectively engage and work together with others, so I would like to learn strategies and approaches to connect with like-minded individuals more easily.
-- 💬 Feel free to ask me about streaming video solutions, Ubuntu server management, network configurations, payment integrations, automating payment processes, sending marketing emails, and utilizing social messaging platforms such as Telegram, Viber, and others for effective communication and engagement.
-- 📫  Phone: +380995390629
-      Email: adalbertbarta@gmail.com or adalbert@jsonsmile.com
-      Skype: adalbert.barta
-Let's connect and explore opportunities to collaborate!
+I'm a DevOps enthusiast passionate about leveraging cutting-edge technologies to streamline development and deployment processes. 
+
+🔧 **Current Projects:** 
+I'm working on a dynamic streaming platform equipped with an advanced admin control panel, interactive bots for an enriched user experience, and seamless payment processing directly integrated with the bots.
+
+🌱 **Skills & Learning:** 
+While I've dabbled with Kubernetes, Terraform, and Jenkins, I'm on a journey to delve deeper and master these tools. I believe in continuous learning and am always looking to expand my tech stack.
+
+🤝 **Collaboration:** 
+I'm open to collaborations in the realm of DevOps, especially projects that emphasize automation, cloud infrastructure, and process optimization.
+
+🌐 **Ask Me About:** 
+- Streaming Video Solutions
+- Ubuntu Server Management
+- Network Configurations
+- Payment Integrations & Automation
+- Marketing Emails & Campaigns
+- Using Messaging Platforms like Telegram & Viber for Business
+
+🔍 **Looking For:** 
+Guidance on honing my communication skills. I aim to foster effective collaborations and would love to learn tactics to connect with fellow tech enthusiasts.
+
+📞 **Contact Me:** 
+- **Phone:** +380995390629
+- **Email:** adalbertbarta@gmail.com | adalbert@jsonsmile.com
+- **Skype:** adalbert.barta
+
+**Let's connect and shape the future of tech together!** 🚀
