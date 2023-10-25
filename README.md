@@ -23,8 +23,7 @@ I'm open to collaborations in the realm of DevOps, especially projects that emph
 Guidance on honing my communication skills. I aim to foster effective collaborations and would love to learn tactics to connect with fellow tech enthusiasts.
 
 📞 **Contact Me:** 
-- **Phone:** +380995390629
-- **Email:** adalbertbarta@gmail.com | adalbert@jsonsmile.com
+- **Email:** adalbert@jsonsmile.com
 - **Skype:** adalbert.barta
 
 **Let's connect and shape the future of tech together!** 🚀
