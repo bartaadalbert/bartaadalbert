@@ -2,7 +2,7 @@
 
 👋 **Hello, I'm Adalbert!** 
 
-I'm a **DevOps enthusiast** with a strong passion for leveraging cutting-edge technologies to streamline development and deployment processes. I specialize in using GitHub, ArgoCD, Kubernetes, Helm, Flux CD, and Traefik to build efficient and scalable infrastructure. For infrastructure provisioning and management, I rely on Terraform to define and manage resources as code, ensuring consistent and reproducible deployments across cloud providers. Additionally, I utilize monitoring tools like Prometheus, Grafana, and ELK stack (Elasticsearch, Logstash, Kibana) to gain deep insights into system performance and proactively address any issues. For configuration management and automation, I employ Ansible to ensure consistent and reproducible deployments across environments.
+I'm a **DevOps enthusiast** with a strong passion for leveraging cutting-edge technologies to streamline development and deployment processes. I specialize in using **GitHub**, **ArgoCD**, **Kubernetes**, **Helm**, **Flux CD**, and **Traefik** to build efficient and scalable infrastructure. For infrastructure provisioning and management, I rely on **Terraform** to define and manage resources as code, ensuring consistent and reproducible deployments across cloud providers. Additionally, I utilize monitoring tools like **Prometheus**, **Grafana**, and **ELK stack (Elasticsearch, Logstash, Kibana)** to gain deep insights into system performance and proactively address any issues. For configuration management and automation, I employ **Ansible** to ensure consistent and reproducible deployments across environments.
 
 ## 🔧 Current Projects
 
