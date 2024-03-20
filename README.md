@@ -2,7 +2,7 @@
 
 👋 **Hello, I'm Adalbert!** 
 
-I'm a **DevOps enthusiast** with a strong passion for utilizing cutting-edge technologies to streamline development and deployment processes. I specialize in using **GitHub, ArgoCD, Kubernetes, Helm, Flux CD, and Traefik** to build efficient and scalable infrastructure.
+I'm a **DevOps enthusiast** with a strong passion for leveraging cutting-edge technologies to streamline development and deployment processes. I specialize in using GitHub, ArgoCD, Kubernetes, Helm, Flux CD, and Traefik to build efficient and scalable infrastructure. For infrastructure provisioning and management, I rely on Terraform to define and manage resources as code, ensuring consistent and reproducible deployments across cloud providers. Additionally, I utilize monitoring tools like Prometheus, Grafana, and ELK stack (Elasticsearch, Logstash, Kibana) to gain deep insights into system performance and proactively address any issues. For configuration management and automation, I employ Ansible to ensure consistent and reproducible deployments across environments.
 
 ## 🔧 Current Projects
 
@@ -17,13 +17,14 @@ I am currently engaged in developing a dynamic streaming platform. This project 
 
 I have a diverse skill set that encompasses a wide range of technologies and practices, including:
 
-- 🐍 **Python & Django**: Building web applications with Python and the Django framework
+- 🐍 **Python & Django/FastAPI**: Building web applications with Python and the Django or FastAPI frameworks
 - 💼 **PHP & Laravel**: Developing web solutions using PHP and the Laravel framework
 - 📜 **Bash Scripting**: Creating scripts for task automation and performance enhancement
 - 🔐 **Network and Proxy Systems**: Deep understanding of network and proxy systems for secure and stable IT infrastructure setup
 - 🖥️ **Linux Server Management**: Proficient in managing Linux-based servers and operations
 - ☕ **JVM**: Familiar with the Java Virtual Machine, its limitations, and workarounds
 - 📜 **Git**: Proficient with Git for version control
+- 🗄️ Databases: Experience with SQL databases such as MySQL, PostgreSQL, and SQLite3
 
 ## 3. DevOps Tools
 
@@ -37,6 +38,7 @@ I leverage various DevOps tools and practices to automate and streamline develop
 - 🚢 **Helm**: Managing Kubernetes applications with package management
 - 🔄 **Flux CD**: Continuous delivery and GitOps for Kubernetes
 - 🚀 **Traefik**: Configuring and managing reverse proxy and load balancing with Traefik
+- 📊 Grafana, Prometheus, Loki: Monitoring and logging solutions for Kubernetes clusters
 
 ## 4. Server Management
 
